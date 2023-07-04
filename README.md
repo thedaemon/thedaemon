@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thedaemon
-- 👀 I’m interested in ... FreeBSD, pixel art, 3d graphics, Blender, Grafx2, raycast voxels
+- 👀 I’m interested in ... plan9, FreeBSD, pixel art, 3d graphics, Blender, Grafx2, raycast voxels
 - 🌱 I’m currently learning ...C & Character Animation
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... low resolution art
 - 📫 How to reach me ...email
 
 <!---
